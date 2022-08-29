@@ -27,7 +27,8 @@ $first_part = $components[1];
                         <div class="dropdown-menu">
                             <a href="hotel.php" class="dropdown-item">Hotels/Hospitals</a>
                             <a href="industry.php" class="dropdown-item">Industries</a>
-                            <a href="misc.php" class="dropdown-item">Commercial/Residential</a>
+                            <a href="commercial.php" class="dropdown-item">Commercial/Residential</a>
+                            <a href="misc.php" class="dropdown-item">Miscellaneous</a>
 <!--                            <a href="booking.html" class="dropdown-item">Schedule Booking</a>-->
                         </div>
                     </div>

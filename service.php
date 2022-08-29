@@ -120,23 +120,23 @@ include_once 'inc/nav.php';
                     </ul></p>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="service-item">
-                    <img src="img/eco-house.png" style="height: 25%; width: 25%; margin-top: 20px; margin-bottom:20px;"/>
-                    <!--<i class="flaticon-car-wash"></i>-->
-                    <h3>GREEN BUILDING SERVICES</h3>
-                    <p><ul>
-                        <li>Facilitation for obtaining LEED rating and IGBC Green Rating</li>
-                        <li>Computer simulation for the building for Energy Efficiency &
-                            Conservation and for Day Lighting
-                        </li>
-                        <li>Review of existing MEP design and suggestions for incorporating
-                            Green Building Measures</li>
-                        <li>Fundamental & Enhanced commissioning as per USGBC & IGBC
-                            requirement, thru Affiliate Organization.</li>
-                    </ul></p>
-                </div>
-            </div>
+<!--            <div class="col-lg-3 col-md-6">-->
+<!--                <div class="service-item">-->
+<!--                    <img src="img/eco-house.png" style="height: 25%; width: 25%; margin-top: 20px; margin-bottom:20px;"/>-->
+<!--                    <i class="flaticon-car-wash"></i>-->
+<!--                    <h3>GREEN BUILDING SERVICES</h3>-->
+<!--                    <p><ul>-->
+<!--                        <li>Facilitation for obtaining LEED rating and IGBC Green Rating</li>-->
+<!--                        <li>Computer simulation for the building for Energy Efficiency &-->
+<!--                            Conservation and for Day Lighting-->
+<!--                        </li>-->
+<!--                        <li>Review of existing MEP design and suggestions for incorporating-->
+<!--                            Green Building Measures</li>-->
+<!--                        <li>Fundamental & Enhanced commissioning as per USGBC & IGBC-->
+<!--                            requirement, thru Affiliate Organization.</li>-->
+<!--                    </ul></p>-->
+<!--                </div>-->
+<!--            </div>-->
 
         </div>
     </div>

@@ -5,7 +5,7 @@
                 <div class="logo">
                     <a href="index.php">
 <!--                        <h1>Auto<span>Wash</span></h1>-->
-                        <img src="img/logo.png" alt="Logo">
+                        <img src="img/logo.png" alt="Logo" >
                     </a>
                 </div>
             </div>
@@ -18,7 +18,7 @@
                             </div>
                             <div class="top-bar-text">
                                 <h3>Opening Hour</h3>
-                                <p>Mon - Fri, 8:00 - 5:00 IST</p>
+                                <p>Mon - Fri, 10:00 - 06:00 IST</p>
                             </div>
                         </div>
                     </div>

@@ -30,6 +30,10 @@ include_once 'inc/nav.php';
 <!-- About Start -->
 <div class="about">
     <div class="container">
+        <div class="section-header text-center" style="max-width: 100%;">
+            <p>Our Projects</p>
+            <h2>Industries</h2>
+        </div>
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-img">
@@ -37,10 +41,10 @@ include_once 'inc/nav.php';
                 </div>
             </div>
             <div class="col-lg-6">
-                <div class="section-header text-left">
-                    <p>Industries</p>
-                    <h2>Completed Projects</h2>
-                </div>
+<!--                <div class="section-header text-left">-->
+<!--                    <p>Industries</p>-->
+<!--                    <h2>Completed Projects</h2>-->
+<!--                </div>-->
                 <div class="about-content">
                     <ul>
                         <li><i class="far fa-check-circle"></i>EBI Factory at Ludhiana</li>
@@ -58,9 +62,6 @@ include_once 'inc/nav.php';
                         </li>
                         <li><i class="far fa-check-circle"></i>Popcorn Factory at Sonepat by PVR
                         </li>
-                        <li><i class="far fa-check-circle"></i>Zero Liquid Discharge Building at Neelamangla, Banglore ( A Pepsico
-                            project )
-                        </li>
                     </ul>
                 </div>
             </div>
@@ -73,12 +74,12 @@ include_once 'inc/nav.php';
             </div>
             <div class="col-lg-6">
                 <div class="section-header text-left">
-                    <h2>Ongoing Projects</h2>
+<!--                    <h2>Ongoing Projects</h2>-->
                 </div>
                 <div class="about-content">
                     <ul>
-                        <li><i class="far fa-check-circle"></i>Proposed Green Factory Building at Immavu Village, Mysore, Karnataka</li>
-                        <li><i class="far fa-check-circle"></i>Proposed Factory Building at B-26, sector-85, Noida</li>
+                        <li><i class="far fa-check-circle"></i>Green Factory Building at Immavu Village, Mysore, Karnataka</li>
+                        <li><i class="far fa-check-circle"></i>Factory Building at B-26, sector-85, Noida</li>
                         <li><i class="far fa-check-circle"></i>Technical Audit & solution for existing National Health Care Plant at
                             Birganj, Nepal
                         </li>

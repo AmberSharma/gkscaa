@@ -108,7 +108,7 @@ include_once 'inc/nav.php';
         <div>
             <nav class="navbar bg-dark">
                 <div class="container-fluid">
-                    <span class="navbar-brand mb-0 h1" style="color: white;"><b>Other Projects </b></span>
+                    <span class="navbar-brand mb-0 h1" style="color: white;"><b>Other Hospital Projects </b></span>
                 </div>
             </nav>
         </div>
@@ -136,7 +136,7 @@ include_once 'inc/nav.php';
         <div>
             <nav class="navbar bg-dark">
                 <div class="container-fluid">
-                    <span class="navbar-brand mb-0 h1" style="color: white;"><b>Proposed Projects </b></span>
+                    <span class="navbar-brand mb-0 h1" style="color: white;"><b>Other Hotel Projects </b></span>
                 </div>
             </nav>
         </div>

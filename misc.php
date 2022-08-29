@@ -11,55 +11,36 @@ include_once 'inc/nav.php';
 <!-- About Start -->
 <div class="about">
     <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6">
-                <div class="about-img">
-                    <img src="img/projects/commercial.jpeg" alt="Image">
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="section-header text-left">
-                    <p>Miscellaneous Projects</p>
-                    <h2>Commercial Project / IT Projects/ Data Centre</h2>
-                </div>
-                <div class="about-content">
-                    <ul>
-                        <li><i class="far fa-check-circle"></i>Cyber Park at Plot No.-B2, Sector -62, Noida U.P. ( Tower-3, 5 & 6)
-                        </li>
-                        <li><i class="far fa-check-circle"></i>Info Space, Kolkata
-                        </li>
-                        <li><i class="far fa-check-circle"></i>Proposed Office Building for SNM group at Okhla, New Delhi</li>
-                        <li><i class="far fa-check-circle"></i>Commercial Complex at Kotdwar
-                        </li>
-                        <li><i class="far fa-check-circle"></i>Renovation work of President House, New Delhi
-                        </li>
-                        <li><i class="far fa-check-circle"></i>National Data Centre at Guwahati, Assam
-                        </li>
-                    </ul>
-                </div>
-            </div>
+        <div class="section-header text-center" style="max-width: 100%;">
+            <p>Our Projects</p>
+            <h2>Miscellaneous</h2>
         </div>
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-img">
-                    <img src="img/projects/residential.jpg" alt="Image">
+                    <img src="img/projects/pvr.jpg" alt="Image">
                 </div>
             </div>
             <div class="col-lg-6">
-                <div class="section-header text-left">
-                    <h2>Residential Projects</h2>
-                </div>
+<!--                <div class="section-header text-left">-->
+<!--                    <p>Miscellaneous Projects</p>-->
+<!--                    <h2>Commercial Project / IT Projects/ Data Centre</h2>-->
+<!--                </div>-->
                 <div class="about-content">
                     <ul>
-                        <li><i class="far fa-check-circle"></i>Proposed Prabhu Darshan at Gol Building Dhanbad</li>
-                        <li><i class="far fa-check-circle"></i>Residential Cum Commercial Building at Bokaro, Jharkhand
+                        <li><i class="far fa-check-circle"></i>Gym at sector-62, Noida</li>
+                        <li><i class="far fa-check-circle"></i>Grill & Platter for Pind Balluchi, Gurgaon
                         </li>
-                        <li><i class="far fa-check-circle"></i>Roseline Tower, Plot No.3-Service Apartments & shopping Arcade,
-                            Vasundhara, Ghaziabad
+                        <li><i class="far fa-check-circle"></i>Dining Hall at Galgotia University</li>
+                        <li><i class="far fa-check-circle"></i>PVR at VIP mall, Raj Nagar Extension
                         </li>
-                        <li><i class="far fa-check-circle"></i>KGK Housing Society “Akshar” at Jaipur
+                        <li><i class="far fa-check-circle"></i>PVR at Spine mall, Pune
                         </li>
-                        <li><i class="far fa-check-circle"></i>Housing Society “ Ozone Solitiare Sector-87” Faridabad
+                        <li><i class="far fa-check-circle"></i>Electrical audit & Solutions for PVR at different locations
+                        </li>
+                        <li><i class="far fa-check-circle"></i>Cold Store
+                        </li>
+                        <li><i class="far fa-check-circle"></i>DPS School at Loni, Ghaziabad
                         </li>
                     </ul>
                 </div>
