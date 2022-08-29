@@ -76,6 +76,32 @@
                             <!--<a class="btn btn-custom" href="service.php">Explore More</a>-->
                         </div>
                     </div>
+                    <div class="carousel-item">
+                        <div class="carousel-img">
+                            <img src="img/carousel-6.jpg" width="1366" height="800" alt="Image">
+                        </div>
+                        <div class="carousel-text">
+                            <h3>Multi Disciplinary Consultancy</h3>
+                            <h1>Fire Fighting System</h1>
+                            <p>
+                                A fire fighting system is an activity of prevention during a fire spread in building, home or warehouse with the use of proper fire safety equipment like extinguisher, hose reels, fire monitors, nozzles and hose pipes.
+                            </p>
+                            <!--<a class="btn btn-custom" href="service.php">Explore More</a>-->
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="carousel-img">
+                            <img src="img/carousel-7.jpg" width="1366" height="800" alt="Image">
+                        </div>
+                        <div class="carousel-text">
+                            <h3>Multi Disciplinary Consultancy</h3>
+                            <h1>Consultancy Services</h1>
+                            <p>
+                                Consulting is defined as the practise of providing a third party with expertise on a matter in exchange for a fee. The service may involve either advisory or implementation services.
+                            </p>
+                            <!--<a class="btn btn-custom" href="service.php">Explore More</a>-->
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

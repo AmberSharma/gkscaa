@@ -11,19 +11,19 @@ include_once 'inc/nav.php';
 
 
 <!-- Page Header Start -->
-<div class="page-header">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <h2>Industries</h2>
-            </div>
-            <div class="col-12">
-                <a href="index.php">Home</a>
-                <a href="">Projects</a>
-            </div>
-        </div>
-    </div>
-</div>
+<!--<div class="page-header">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-12">-->
+<!--                <h2>Industries</h2>-->
+<!--            </div>-->
+<!--            <div class="col-12">-->
+<!--                <a href="index.php">Home</a>-->
+<!--                <a href="">Projects</a>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
 <!-- Page Header End -->
 
 

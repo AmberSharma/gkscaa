@@ -9,19 +9,19 @@ include_once 'inc/top.php';
 include_once 'inc/nav.php';
 ?>
 <!-- Page Header Start -->
-<div class="page-header">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <h2>Hotels / Hospitals</h2>
-            </div>
-            <div class="col-12">
-                <a href="index.php">Home</a>
-                <a href="">Projects</a>
-            </div>
-        </div>
-    </div>
-</div>
+<!--<div class="page-header">-->
+<!--    <div class="container">-->
+<!--        <div class="row">-->
+<!--            <div class="col-12">-->
+<!--                <h2>Hotels / Hospitals</h2>-->
+<!--            </div>-->
+<!--            <div class="col-12">-->
+<!--                <a href="index.php">Home</a>-->
+<!--                <a href="">Projects</a>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
 <!-- Page Header End -->
 
 <!-- Blog Start -->
@@ -101,6 +101,62 @@ include_once 'inc/nav.php';
                         <p><i class="fa fa-map-marker"></i>Mohali</p>
                         <!--                        <p><i class="fa fa-folder"></i><a href="">Web Design</a></p>-->
                         <!--                        <p><i class="fa fa-comments"></i><a href="">15 Comments</a></p>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <nav class="navbar bg-dark">
+                <div class="container-fluid">
+                    <span class="navbar-brand mb-0 h1" style="color: white;"><b>Other Projects </b></span>
+                </div>
+            </nav>
+        </div>
+        <div class="about">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="about-img">
+                            <img src="img/projects/contruction-building.jpg" alt="Image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about-content">
+                            <ul>
+                                <li><i class="far fa-check-circle"></i>Niramyah Hospital at Kankarbagh, Patna, Bihar</li>
+                                <li><i class="far fa-check-circle"></i>Max Oncology Centre at Lajpat Nagar, New Delhi</li>
+                                <li><i class="far fa-check-circle"></i>Max immigration centre at Saket & Lajpat Nagar</li>
+                                <li><i class="far fa-check-circle"></i>MDH diagnostic Centre</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <nav class="navbar bg-dark">
+                <div class="container-fluid">
+                    <span class="navbar-brand mb-0 h1" style="color: white;"><b>Proposed Projects </b></span>
+                </div>
+            </nav>
+        </div>
+        <div class="about">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="about-img">
+                            <img src="img/projects/proposed-project.jpg" alt="Image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about-content">
+                            <ul>
+                                <li><i class="far fa-check-circle"></i>Hotel Complex at SCO’s-16.17 18 at Amritsar, Punjab</li>
+                                <li><i class="far fa-check-circle"></i>Hotel at Mathura</li>
+                                <li><i class="far fa-check-circle"></i>Hotel at Vrindavan</li>
+                                <li><i class="far fa-check-circle"></i>Food Court at Khatauli (UP)</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>

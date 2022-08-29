@@ -16,7 +16,7 @@ $first_part = $components[1];
                 <div class="navbar-nav mr-auto">
                     <a href="index.php" class="nav-item nav-link <?php if ($first_part=="" || $first_part == "index.php") {echo " active"; }?>">Home</a>
                     <a href="about.php" class="nav-item nav-link<?php if ($first_part == "about.php") {echo " active"; }?>">About</a>
-                    <a href="service.php" class="nav-item nav-link <?php if ($first_part == "service.php") {echo " active"; }?>">Service</a>
+                    <a href="service.php" class="nav-item nav-link <?php if ($first_part == "service.php") {echo " active"; }?>">Services</a>
                     <a href="vision.php" class="nav-item nav-link <?php if ($first_part == "vision.php") {echo " active"; }?>">Vision</a>
 
                     <!--                            <a href="price.html" class="nav-item nav-link">Price</a>-->
@@ -34,7 +34,7 @@ $first_part = $components[1];
                     <!--                            <a href="contact.html" class="nav-item nav-link">Contact</a>-->
                 </div>
                 <div class="ml-auto">
-                    <a class="btn btn-custom" href="#">Get Appointment</a>
+                    <!--<a class="btn btn-custom" href="#">Get Appointment</a>-->
                 </div>
             </div>
         </nav>
