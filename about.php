@@ -13,9 +13,9 @@ include_once 'inc/nav.php';
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        &lt;!&ndash;<div class="about-img">
+                        <div class="about-img">
                             <img src="img/MEP-Model.png" alt="Image">
-                        </div>&ndash;&gt;
+                        </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="section-header text-left">
